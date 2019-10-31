@@ -1,0 +1,7 @@
+# Default ignored files
+/workspace.xml
+*.iws
+*.iml
+.idea/modules.xml
+/usage.statistics.xml
+/tasks.xml
